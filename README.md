@@ -8,4 +8,6 @@
 - A
 - B
 - C
-![gif](medi/enregistrement.gif)
+
+## Gif
+![gif](media/.gif)
