@@ -1,10 +1,11 @@
 # Joe
 ![face](media/JermaSus.jpg)
-## liste organisé
+## Liste organisé
 1. A
 2. B
 3. C
-## liste désorganisé
+## Liste désorganisé
 - A
 - B
 - C
+![gif](medi/enregistrement.gif)
