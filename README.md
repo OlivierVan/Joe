@@ -1,2 +1,2 @@
 # Joe
-![face](media/JermaSus.png)
+![face](media/JermaSus.jpg)
