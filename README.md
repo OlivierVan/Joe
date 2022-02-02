@@ -1,5 +1,5 @@
 # Joe
-![face](media/JermaSus.jpg)
+![face](media/Jerma)
 ## Liste organisé
 1. A
 2. B
